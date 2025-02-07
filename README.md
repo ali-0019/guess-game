@@ -36,5 +36,5 @@ This is a simple number guessing game built with HTML, CSS, and JavaScript. The 
 This project is open-source and free to use under the MIT License.
 
 ## Author
-Developed by [Your Name].
+Developed by Ali ghadami.
 
