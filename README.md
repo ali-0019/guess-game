@@ -28,7 +28,7 @@ This is a simple number guessing game built with HTML, CSS, and JavaScript. The 
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/USERNAME/REPOSITORY.git
+   git clone https://github.com/ali-0019/REPOSITORY.git
    ```
 2. Open the `index.html` file in your browser.
 
